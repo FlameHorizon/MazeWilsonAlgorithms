@@ -1,0 +1,15 @@
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/bin/Debug/net7.0/MazeWilsonAlgorithms
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/bin/Debug/net7.0/MazeWilsonAlgorithms.deps.json
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/bin/Debug/net7.0/MazeWilsonAlgorithms.runtimeconfig.json
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/bin/Debug/net7.0/MazeWilsonAlgorithms.dll
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/bin/Debug/net7.0/MazeWilsonAlgorithms.pdb
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.csproj.AssemblyReference.cache
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.AssemblyInfoInputs.cache
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.AssemblyInfo.cs
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.csproj.CoreCompileInputs.cache
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.dll
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/refint/MazeWilsonAlgorithms.dll
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.pdb
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/MazeWilsonAlgorithms.genruntimeconfig.cache
+/home/maciej/code/MazeWilsonAlgorithms/MazeWilsonAlgorithms/obj/Debug/net7.0/ref/MazeWilsonAlgorithms.dll
